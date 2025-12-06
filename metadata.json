@@ -1,0 +1,5 @@
+{
+  "name": "WePub AI - WeChat Article Copilot",
+  "description": "A one-stop Markdown editor and publishing assistant for WeChat Official Accounts, featuring Gemini-powered writing enhancement, title generation, and cover image creation.",
+  "requestFramePermissions": []
+}
